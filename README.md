@@ -1,2 +1,2 @@
 # wq
-Wrapper Q, equivalent of WETH Wrapper Ethereum
+Wrapped Q, equivalent of WETH Wrapper Ethereum
